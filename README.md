@@ -9,5 +9,5 @@ Deep learning based models have had great success in object detection, butthe st
 Metric : Mean Absolute Precision
 
 Losses : 
-RPN(Region Proposal Network) Classification & Regression Losses
+RPN(Region Proposal Network) Classification & Regression Losses,
 R-CNN classification & Regression Losses
